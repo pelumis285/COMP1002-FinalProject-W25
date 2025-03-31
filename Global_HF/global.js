@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <!-- Navigation Menu -->
         <nav class="nav-menu" id="navMenu">
           <ul>
-            <li><a href="../../../index.html" class="nav-link">Home</a></li>
+            <li><a href="index.html" class="nav-link">Home</a></li>
             <li><a href="about.html" class="nav-link">About Us</a></li>
             <li><a href="product.html" class="nav-link">Products</a></li>
             <li><a href="contact_us.html" class="nav-link">Contact Us</a></li>
