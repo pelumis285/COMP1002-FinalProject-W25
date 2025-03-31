@@ -38,23 +38,23 @@ body {
 }
 
 .slide1 {
-  background: url('images/Car1.JPG') center/cover no-repeat;
+  background: url('../images/Car1.JPG') center/cover no-repeat;
 }
 
 .slide2 {
-  background: url('../../../images/Car10.jpg') center/cover no-repeat;
+  background: url('../images/Car10.jpg') center/cover no-repeat;
 }
 
 .slide3 {
-  background: url('../../../images/Car11.JPG') center/cover no-repeat;
+  background: url('../images/Car11.JPG') center/cover no-repeat;
 }
 
 .slide4 {
-  background: url('../../../images/Car12.jpg') center/cover no-repeat;
+  background: url('../images/Car12.jpg') center/cover no-repeat;
 }
 
 .slide5 {
-  background: url('../../../images/Car13.jpg') center/cover no-repeat;
+  background: url('../images/Car13.jpg') center/cover no-repeat;
 }
 
 .slide-overlay {
