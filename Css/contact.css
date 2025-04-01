@@ -20,7 +20,7 @@ body {
   text-align: center;
   padding: 2rem 1rem;
   /* Background image for the header */
-  background: url('images/Car5.jpg') center center/cover no-repeat;
+  background: url('../images/Car5.jpg') center center/cover no-repeat;
   color: #ffcc00;
 }
 
