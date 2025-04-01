@@ -20,7 +20,7 @@ body {
 .about-section {
   text-align: center;
   /* Background image for the about section */
-  background: url('../../../images/Car18.jpg') center center/cover no-repeat;
+  background: url('../images/Car18.jpg') center center/cover no-repeat;
   color: #ffcc00;  /* Gold accent color */
   padding: 2rem 1rem;
   margin-bottom: 1rem;
